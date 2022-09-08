@@ -7,40 +7,40 @@ This course will introduce the learner to information visualization basics, with
 
 week1.zip: Documents of this course:  
 
-assignement1.png
-assignement1_rubric.pdf
+assignement1.png  
+assignement1_rubric.pdf  
 Cairo2015_Chapter_GraphicLiesMisleadingVisualization.pdf
-graphic_answer.png
+graphic_answer.png  
 links.txt
 
 week2.zip: Documents of this course:  
 
-assignement2.pdf
-assignement2.py
-assignement2_rubic.pdf
-data.csv
+assignement2.pdf  
+assignement2.py  
+assignement2_rubic.pdf  
+data.csv  
 Figure_1.png: final/answer plot
 
 week3.zip: Documents of this course:  
 
-assignement3.pdf
-assignement3.py
-assignement3_lab.pdf
-assignement3_rubric.pdf
-capture.png
-Ferreira_Fisher_sample_oriented_task.pdf
-matplotlib_pyplot_examples.py
-Understanding_Error_Bars.pdf
+assignement3.pdf  
+assignement3.py  
+assignement3_lab.pdf  
+assignement3_rubric.pdf  
+capture.png  
+Ferreira_Fisher_sample_oriented_task.pdf  
+matplotlib_pyplot_examples.py  
+Understanding_Error_Bars.pdf  
 
 week4.zip: Documents of this course:  
 
-answer_assignement4.pdf
-assignement4.pdf
-assignement4_example.pdf
-assignement4_rubric.pdf
-Link_Dataset.txt
-plotBar_example.py
-assignement4.py
-unemployment_rate.xlsx: data
+answer_assignement4.pdf  
+assignement4.pdf  
+assignement4_example.pdf  
+assignement4_rubric.pdf  
+Link_Dataset.txt  
+plotBar_example.py  
+assignement4.py  
+unemployment_rate.xlsx: data  
 unemploymentRate.png: Final plot
 
